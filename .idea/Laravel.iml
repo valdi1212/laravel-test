@@ -19,7 +19,6 @@
       <sourceFolder url="file://$MODULE_DIR$/vendor/phpspec/prophecy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/phpdocumentor/reflection-docblock/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/phpdocumentor/reflection-docblock/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/mtdowling/cron-expression/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/nesbot/carbon/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/laravel/framework/src" isTestSource="false" />
@@ -33,6 +32,7 @@
       <sourceFolder url="file://$MODULE_DIR$/vendor/hamcrest/hamcrest-php/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/hamcrest/hamcrest-php/hamcrest" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
