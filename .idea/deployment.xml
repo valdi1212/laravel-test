@@ -10,8 +10,10 @@
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/vendor" />
             <excludedPath path="/vendor" />
-            <excludedPath local="true" path="$PROJECT_DIR$/storage" />
-            <excludedPath path="/storage" />
+            <excludedPath local="true" path="$PROJECT_DIR$/storage/logs" />
+            <excludedPath path="/storage/logs" />
+            <excludedPath path="/storage/framework" />
+            <excludedPath local="true" path="$PROJECT_DIR$/storage/framework" />
           </excludedPaths>
         </serverdata>
       </paths>
