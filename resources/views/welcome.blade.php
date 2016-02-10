@@ -34,7 +34,7 @@
 <body>
 <div class="container">
     <div class="content">
-        <div class="title">Hér kemur vefsíða...</div>
+        <div class="title">Hér mun koma vefsíða...</div>
     </div>
 </div>
 </body>
